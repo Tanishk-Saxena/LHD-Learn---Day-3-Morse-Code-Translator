@@ -1,5 +1,5 @@
-# LHD-Learn---Day-2-Morse-Code-Translator
-LHD: Learn 2022 day 2 challenge
+# LHD-Learn---Day-3-Morse-Code-Translator
+LHD: Learn 2022 day 3 challenge
 Contributors: -
 
 Name: email
